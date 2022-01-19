@@ -6,8 +6,8 @@ File before encryption:
 
 File after encryption:
 
-<img src="https://github.com/ibrahimswati/Cryptography-Cybersecurity/blob/main/crypt1.png">
+<img src="https://github.com/ibrahimswati/Cryptography-Cybersecurity/blob/main/crypt.png">
 
 File after decryption:
 
-<img src="https://github.com/ibrahimswati/Cryptography-Cybersecurity/blob/main/crypt.png">
+<img src="https://github.com/ibrahimswati/Cryptography-Cybersecurity/blob/main/crypt1.png">
