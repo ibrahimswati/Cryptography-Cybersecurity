@@ -1,4 +1,4 @@
-# Basic script to encrpyt and decrypt txt files. 
+# Basic script to encrpyt and decrypt txt files using PyCryptoDome library. 
 
 File before encryption:
 
